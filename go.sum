@@ -1,2 +1,4 @@
 github.com/golang-migrate/migrate v3.5.4+incompatible h1:R7OzwvCJTCgwapPCiX6DyBiu2czIUMDCB118gFTKTUA=
 github.com/golang-migrate/migrate v3.5.4+incompatible/go.mod h1:IsVUlFN5puWOmXrqjgGUfIRIbU7mr8oNBE2tyERd9Wk=
+github.com/kyleconroy/sqlc v1.17.2 h1:aFXblbzJTCHy0S8zWgF+6hMwc6ezxtwBfmjxoBCuv/8=
+github.com/kyleconroy/sqlc v1.17.2/go.mod h1:tZo5IZRJSjGiQGuFD6nqRcVThyPQ+D5HOzHEXXzOo8M=
